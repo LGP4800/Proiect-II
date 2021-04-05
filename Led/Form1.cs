@@ -107,6 +107,7 @@ namespace Led
                     labelStatus.Text = a;
                 })); // nu pot modifica formul din al thread decat cel care l-a creat. pentru asta se foloseste begin invoke
                 Thread.Sleep(500);
+                //testt
             }
         }
 

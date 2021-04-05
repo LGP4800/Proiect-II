@@ -647,11 +647,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Z. Proiect_II\\Led\\Led.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Z. Proiect_II\\Proiect-II\\Led\\Led.csproj",
       "projectName": "Led",
-      "projectPath": "G:\\Z. Proiect_II\\Led\\Led.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\Z. Proiect_II\\Proiect-II\\Led\\Led.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "G:\\Z. Proiect_II\\Led\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\Z. Proiect_II\\Proiect-II\\Led\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

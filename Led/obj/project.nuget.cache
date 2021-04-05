@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LX/oHEIUawzQQY83gu31olIM2VtsvfZktmlWK0fGYRPPr+vIpsC3ZkSosU4AhoOAYOqLqSmA+aamdIrawoTw0A==",
+  "dgSpecHash": "DKz5NJT7voZeBRpd1hl8yDAnaB0iY8DvI9B2UsK+EnkTo6+ZdvcRcAi2r3Vf0hQqrdjKnMC1H9v6NyTW+72O7A==",
   "success": true,
-  "projectFilePath": "G:\\Z. Proiect_II\\Led\\Led.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Z. Proiect_II\\Proiect-II\\Led\\Led.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
