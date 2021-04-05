@@ -1,0 +1,92 @@
+G:\Led\bin\Debug\net5.0-windows\Led.exe
+G:\Led\bin\Debug\net5.0-windows\Led.deps.json
+G:\Led\bin\Debug\net5.0-windows\Led.runtimeconfig.json
+G:\Led\bin\Debug\net5.0-windows\Led.runtimeconfig.dev.json
+G:\Led\bin\Debug\net5.0-windows\Led.dll
+G:\Led\bin\Debug\net5.0-windows\ref\Led.dll
+G:\Led\bin\Debug\net5.0-windows\Led.pdb
+G:\Led\bin\Debug\net5.0-windows\System.IO.Ports.dll
+G:\Led\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+G:\Led\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+G:\Led\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+G:\Led\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+G:\Led\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+G:\Led\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+G:\Led\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+G:\Led\obj\Debug\net5.0-windows\Led.Form1.resources
+G:\Led\obj\Debug\net5.0-windows\Led.csproj.GenerateResource.cache
+G:\Led\obj\Debug\net5.0-windows\Led.GeneratedMSBuildEditorConfig.editorconfig
+G:\Led\obj\Debug\net5.0-windows\Led.AssemblyInfoInputs.cache
+G:\Led\obj\Debug\net5.0-windows\Led.AssemblyInfo.cs
+G:\Led\obj\Debug\net5.0-windows\Led.csproj.CoreCompileInputs.cache
+G:\Led\obj\Debug\net5.0-windows\Led.csproj.CopyComplete
+G:\Led\obj\Debug\net5.0-windows\Led.dll
+G:\Led\obj\Debug\net5.0-windows\ref\Led.dll
+G:\Led\obj\Debug\net5.0-windows\Led.pdb
+G:\Led\obj\Debug\net5.0-windows\Led.genruntimeconfig.cache
+G:\Led\obj\Debug\net5.0-windows\Led.csprojAssemblyReference.cache
+G:\Led\obj\Debug\net5.0-windows\Led.Properties.Resources.resources
+G:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\Led.exe
+G:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\Led.dll
+G:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\ref\Led.dll
+G:\Z. Proiect_II\Led\obj\Debug\net5.0-windows\Led.dll
+G:\Z. Proiect_II\Led\obj\Debug\net5.0-windows\ref\Led.dll
+G:\Z. Proiect_II\Led\obj\Debug\net5.0-windows\Led.Form1.resources
+G:\Z. Proiect_II\Led\obj\Debug\net5.0-windows\Led.Properties.Resources.resources
+G:\Z. Proiect_II\Led\obj\Debug\net5.0-windows\Led.csproj.GenerateResource.cache
+G:\Z. Proiect_II\Led\obj\Debug\net5.0-windows\Led.GeneratedMSBuildEditorConfig.editorconfig
+G:\Z. Proiect_II\Led\obj\Debug\net5.0-windows\Led.AssemblyInfoInputs.cache
+G:\Z. Proiect_II\Led\obj\Debug\net5.0-windows\Led.AssemblyInfo.cs
+G:\Z. Proiect_II\Led\obj\Debug\net5.0-windows\Led.csproj.CoreCompileInputs.cache
+G:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\Led.deps.json
+G:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\Led.runtimeconfig.json
+G:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\Led.runtimeconfig.dev.json
+G:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\Led.pdb
+G:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\System.IO.Ports.dll
+G:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+G:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+G:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+G:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+G:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+G:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+G:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+G:\Z. Proiect_II\Led\obj\Debug\net5.0-windows\Led.csproj.CopyComplete
+G:\Z. Proiect_II\Led\obj\Debug\net5.0-windows\Led.pdb
+G:\Z. Proiect_II\Led\obj\Debug\net5.0-windows\Led.genruntimeconfig.cache
+F:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\Led.exe
+F:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\Led.deps.json
+F:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\Led.runtimeconfig.json
+F:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\Led.runtimeconfig.dev.json
+F:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\Led.dll
+F:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\ref\Led.dll
+F:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\Led.pdb
+F:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\System.IO.Ports.dll
+F:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+F:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+F:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+F:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+F:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+F:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+F:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+F:\Z. Proiect_II\Led\obj\Debug\net5.0-windows\Led.csprojAssemblyReference.cache
+F:\Z. Proiect_II\Led\obj\Debug\net5.0-windows\Led.Form1.resources
+F:\Z. Proiect_II\Led\obj\Debug\net5.0-windows\Led.Properties.Resources.resources
+F:\Z. Proiect_II\Led\obj\Debug\net5.0-windows\Led.csproj.GenerateResource.cache
+F:\Z. Proiect_II\Led\obj\Debug\net5.0-windows\Led.GeneratedMSBuildEditorConfig.editorconfig
+F:\Z. Proiect_II\Led\obj\Debug\net5.0-windows\Led.AssemblyInfoInputs.cache
+F:\Z. Proiect_II\Led\obj\Debug\net5.0-windows\Led.AssemblyInfo.cs
+F:\Z. Proiect_II\Led\obj\Debug\net5.0-windows\Led.csproj.CoreCompileInputs.cache
+F:\Z. Proiect_II\Led\obj\Debug\net5.0-windows\Led.csproj.CopyComplete
+F:\Z. Proiect_II\Led\obj\Debug\net5.0-windows\Led.dll
+F:\Z. Proiect_II\Led\obj\Debug\net5.0-windows\ref\Led.dll
+F:\Z. Proiect_II\Led\obj\Debug\net5.0-windows\Led.pdb
+F:\Z. Proiect_II\Led\obj\Debug\net5.0-windows\Led.genruntimeconfig.cache
+F:\Z. Proiect_II\Led\obj\Debug\net5.0-windows\Led.Login.resources
+G:\Z. Proiect_II\Led\obj\Debug\net5.0-windows\Led.csprojAssemblyReference.cache
+G:\Z. Proiect_II\Led\obj\Debug\net5.0-windows\Led.Login.resources
+G:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+G:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+G:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+G:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+G:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Z. Proiect_II\Led\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
